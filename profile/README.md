@@ -28,7 +28,7 @@ We are actively researching and developing AI-driven solutions to bring advancem
 ## 🌐 Connect With Us
 
 - **Website**: [Coming Soon]
-- **Email**: [info@qtaneasolutions.com](mailto:hello@qtanea.com)
+- **Email**: [hello@qtanea.com](mailto:hello@qtanea.com)
 
 ---
 
