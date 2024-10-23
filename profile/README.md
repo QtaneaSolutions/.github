@@ -2,7 +2,7 @@
 
 ### 🚀 Transforming Healthcare with Technology
 
-Qtaneasolutions is a healthcare technology startup incubated by **DY Patil Medical College Hospital and Research Centre, Pimpri, Pune**. We specialize in providing cutting-edge healthcare solutions like **Electronic Health Records (EHR)** and **Electronic Medical Records (EMR)** applications, aimed at enhancing the efficiency and accuracy of healthcare services. Additionally, we are pioneering research in the application of **Artificial Intelligence (AI)** to revolutionize healthcare delivery.
+Qtaneasolutions is a healthcare technology startup incubated by **DY Patil Medical College Hospital and Research Centre, Pimpri, Pune**. We specialize in providing cutting-edge healthcare solutions like **Electronic Medical Records (EMR)**, **Emergency Medical Dispatch System** applications, aimed at enhancing the efficiency and accuracy of healthcare services. Additionally, we are pioneering research in the application of **Artificial Intelligence (AI)** to revolutionize healthcare delivery.
 
 ---
 
@@ -28,7 +28,7 @@ We are actively researching and developing AI-driven solutions to bring advancem
 ## 🌐 Connect With Us
 
 - **Website**: [Coming Soon]
-- **Email**: [info@qtaneasolutions.com](mailto:info@qtaneasolutions.com)
+- **Email**: [info@qtaneasolutions.com](mailto:hello@qtanea.com)
 
 ---
 
