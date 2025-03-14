@@ -20,7 +20,7 @@ We are actively researching and developing AI-driven solutions to bring.
 
 ---
 ## 🌐 Connect With Us
-- **Website**: [Coming Soon]
+- **Website**: [https://qtanea.ai](qtanea.ai)
 - **Email**: [hello@qtanea.com](mailto:hello@qtanea.com)
 
 Qtaneasolutions — Empowering healthcare providers with innovative digital solutions for.
